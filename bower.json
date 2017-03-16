@@ -1,0 +1,23 @@
+{
+  "name": "yonko",
+  "description": "yes",
+  "main": "index.js",
+  "authors": [
+    "yonko steve"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
+  }
+}
